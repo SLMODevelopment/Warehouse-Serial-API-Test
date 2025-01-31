@@ -1,0 +1,288 @@
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.exe
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.deps.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.dev.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.AssemblyReference.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfoInputs.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfo.cs
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CoreCompileInputs.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cs
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Manifest.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Pack.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SingerWebSiteIntegration.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.RazorTargetAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CopyComplete
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-28\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.genruntimeconfig.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.AssemblyReference.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfoInputs.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfo.cs
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CoreCompileInputs.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cs
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.exe
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.deps.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.dev.json
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Manifest.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Pack.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SingerWebSiteIntegration.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.RazorTargetAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CopyComplete
+E:\SOFTWARE PROJECTS\C# Based Projects\Projects\Website API\Test Api\2023-01-31\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.genruntimeconfig.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.exe
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.deps.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.dev.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.AssemblyReference.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfoInputs.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfo.cs
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CoreCompileInputs.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cs
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Manifest.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Pack.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SingerWebSiteIntegration.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.RazorTargetAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CopyComplete
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.genruntimeconfig.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.AssemblyReference.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfoInputs.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.AssemblyInfo.cs
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CoreCompileInputs.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.exe
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.deps.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.runtimeconfig.dev.json
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\SingerWebSiteIntegration.pdb
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Data.OracleClient.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cs
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.MvcApplicationPartsAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Manifest.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\SingerWebSiteIntegration.StaticWebAssets.Pack.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SingerWebSiteIntegration.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SingerWebSiteIntegration.props
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.RazorTargetAssemblyInfo.cache
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.csproj.CopyComplete
+E:\SOFTWARE PROJECTS\SINGER Website Integration\Website API\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Debug\netcoreapp3.1\SingerWebSiteIntegration.genruntimeconfig.cache

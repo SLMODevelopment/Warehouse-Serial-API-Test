@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj": {}
+  },
+  "projects": {
+    "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj",
+        "projectName": "CCD Application API",
+        "projectPath": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj",
+        "packagesPath": "C:\\Users\\dinidur\\.nuget\\packages\\",
+        "outputPath": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dinidur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.61, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Data.OracleClient": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.19.0, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.24, 3.1.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

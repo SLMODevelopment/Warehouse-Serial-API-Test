@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CCD_Application_API
+build_property.ProjectDir = D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

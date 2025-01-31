@@ -1,0 +1,53 @@
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\CCD Application API.exe
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\CCD Application API.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\CCD Application API.deps.json
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\CCD Application API.runtimeconfig.json
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\CCD Application API.pdb
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.Registry.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Oracle.ManagedDataAccess.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.OracleClient.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.DirectoryServices.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.DirectoryServices.Protocols.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Drawing.Common.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.IO.FileSystem.AccessControl.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.AccessControl.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Permissions.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Principal.Windows.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Text.Encodings.Web.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Text.Json.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\System.Windows.Extensions.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\REPO\CCD-IFS-Rest-API-Test\SingerWebSiteIntegration\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
