@@ -6,7 +6,7 @@
   "compilationOptions": {
     "defines": [
       "TRACE",
-      "RELEASE",
+      "DEBUG",
       "NETCOREAPP",
       "NETCOREAPP3_1",
       "NETCOREAPP1_0_OR_GREATER",
@@ -18,10 +18,10 @@
       "NETCOREAPP3_1_OR_GREATER"
     ],
     "languageVersion": "8.0",
-    "platform": "",
+    "platform": "AnyCPU",
     "allowUnsafe": false,
     "warningsAsErrors": false,
-    "optimize": true,
+    "optimize": false,
     "keyFile": "",
     "emitEntryPoint": true,
     "xmlDoc": false,
@@ -29,7 +29,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "CCD Application API/1.0.0": {
+      "WerehouseSerialScan/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.0",
           "Oracle.ManagedDataAccess.Core": "3.21.61",
@@ -313,10 +313,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "CCD Application API.dll": {}
+          "WerehouseSerialScan.dll": {}
         },
         "compile": {
-          "CCD Application API.dll": {}
+          "WerehouseSerialScan.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.0": {
@@ -2944,7 +2944,7 @@
     }
   },
   "libraries": {
-    "CCD Application API/1.0.0": {
+    "WerehouseSerialScan/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
