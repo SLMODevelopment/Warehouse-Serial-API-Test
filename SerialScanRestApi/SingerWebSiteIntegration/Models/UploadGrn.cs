@@ -14,6 +14,7 @@ namespace CCD_Application_API.Models
         public string update_user { get; set; }
         public string status { get; set; }
 
+        public string container_no { get; set; }
 
     }
 }

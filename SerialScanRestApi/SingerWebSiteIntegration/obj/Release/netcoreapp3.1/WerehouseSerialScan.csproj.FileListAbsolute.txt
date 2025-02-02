@@ -64,3 +64,4 @@ E:\SOFTWARE PROJECTS\Warehouse Serial Scan\Test\Rest API\SerialScanRestApi\Singe
 E:\SOFTWARE PROJECTS\Warehouse Serial Scan\Test\Rest API\SerialScanRestApi\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\WerehouseSerialScan.dll
 E:\SOFTWARE PROJECTS\Warehouse Serial Scan\Test\Rest API\SerialScanRestApi\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\WerehouseSerialScan.pdb
 E:\SOFTWARE PROJECTS\Warehouse Serial Scan\Test\Rest API\SerialScanRestApi\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\WerehouseSerialScan.genruntimeconfig.cache
+E:\SOFTWARE PROJECTS\Warehouse Serial Scan\Test\Rest API\SerialScanRestApi\SingerWebSiteIntegration\obj\Release\netcoreapp3.1\WerehouseSerialScan.csproj.AssemblyReference.cache

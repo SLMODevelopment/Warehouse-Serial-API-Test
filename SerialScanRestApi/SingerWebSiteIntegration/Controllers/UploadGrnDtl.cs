@@ -40,11 +40,12 @@ namespace SingerWebSiteIntegration.Controllers
                         FROM ifsapp.SIN_GRN_SERIAL_DTL 
                         WHERE SHIPMENT_ID = :shipment_id 
                           AND PRODUCT_CODE = :product_code 
+                          
                           AND SERIAL_NO = :serial_no";
 
                         string insertQuery = @"
-                        INSERT INTO ifsapp.SIN_GRN_SERIAL_DTL (SHIPMENT_ID, PRODUCT_CODE, SERIAL_NO, UPDATE_USER, STATUS)
-                        VALUES (:shipment_id, :product_code, :serial_no, :update_user, :status)";
+                        INSERT INTO ifsapp.SIN_GRN_SERIAL_DTL (SHIPMENT_ID, PRODUCT_CODE, SERIAL_NO, UPDATE_USER,CONTAINER_NO, STATUS)
+                        VALUES (:shipment_id, :product_code, :serial_no, :update_user,:container_no, :status)";
 
                         int totalRowsAffected = 0;
                         List<string> failedSerials = new List<string>();
@@ -74,6 +75,7 @@ namespace SingerWebSiteIntegration.Controllers
                                 insertCmd.Parameters.Add(new OracleParameter("product_code", UploadGrn.product_code));
                                 insertCmd.Parameters.Add(new OracleParameter("serial_no", serial));
                                 insertCmd.Parameters.Add(new OracleParameter("update_user", UploadGrn.update_user));
+                                insertCmd.Parameters.Add(new OracleParameter("container_no", UploadGrn.container_no));
                                 insertCmd.Parameters.Add(new OracleParameter("status", UploadGrn.status));
 
                                 int rowsAffected = insertCmd.ExecuteNonQuery();

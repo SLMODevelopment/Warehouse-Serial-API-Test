@@ -22,6 +22,8 @@ namespace SingerWebSiteIntegration.Models
                 //Test
                 //string conString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=172.16.2.140)(PORT=1547)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=testpdb)));User ID=NEENOPAL;Password=neen#456;";
                 string conString = "Data Source=(DESCRIPTION =\r\n    (ADDRESS = (PROTOCOL = TCP)(HOST = 172.16.2.140)(PORT = 1547))\r\n    (CONNECT_DATA =\r\n      (SERVER = DEDICATED)\r\n      (SERVICE_NAME = testpdb)\r\n    )\r\n  );User ID=IFSAPP;Password=sIN#te$T0125;";
+                //Live
+                //string conString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=singerpdb.slmo.com)(PORT=1547)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=sslpdb)));User ID=singerapp;Password=0r@10$in9;";
 
                 oOracleConnection = new OracleConnection();
                 oOracleConnection.ConnectionString = conString;
