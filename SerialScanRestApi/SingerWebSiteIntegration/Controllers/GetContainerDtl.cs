@@ -25,7 +25,7 @@ namespace SingerWebSiteIntegration.Controllers
         //private DataTable oDataTable = null;   
         //private DataRow O_dRow = null;
         [HttpGet("grndtl")]
-        public  IActionResult getgrldtl([FromBody] ContainerList  containerList)
+        public  IActionResult getContainerList([FromBody] ContainerList  containerList)
         {
             if (containerList.shipment_id == 0)
             {
@@ -40,7 +40,7 @@ namespace SingerWebSiteIntegration.Controllers
                     OracleConnection oOracleConnection = dbConnection.GetConnection();
                     string devices_query = @"select G.CF$_X_CONTAINER_NO Container_No
                                               from ifsapp.X_MULTI_SITE_CONTAINER_CLV G
-                                             where G.CF$_X_SHIPNMENT_ID = '" + containerList.Container_No + "'";
+                                             where G.CF$_X_SHIPNMENT_ID = '" + containerList.shipment_id + "'";
                     OracleCommand cmd_non_serial = new OracleCommand(devices_query, oOracleConnection);
                     OracleCommand cmd = new OracleCommand(devices_query, oOracleConnection);
                     OracleDataAdapter dataAdapter = new OracleDataAdapter();
