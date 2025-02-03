@@ -24,7 +24,7 @@ namespace SingerWebSiteIntegration.Controllers
         //private DataSet oDataSet;
         //private DataTable oDataTable = null;   
         //private DataRow O_dRow = null;
-        [HttpGet("grndtl")]
+        [HttpGet("getContainerList")]
         public  IActionResult getContainerList([FromBody] ContainerList  containerList)
         {
             if (containerList.shipment_id == 0)
