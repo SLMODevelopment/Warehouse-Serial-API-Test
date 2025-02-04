@@ -42,8 +42,17 @@ namespace SingerWebSiteIntegration.Controllers
 
                         // Create the select query to check if the serial number exists
                         string devices_query = @"
-                    SELECT serial_no FROM ifsapp.Serial_Trans_History h 
-                    WHERE h.serial_no = :serial_no and and h.part_no = :part_no";
+                    
+                                            SELECT serial_no
+                                              FROM ifsapp.Serial_Trans_History h
+                                             WHERE h.serial_no = :serial_no
+                                               and
+                                               and h.part_no = :part_no
+                                            UNION ALL
+                                            select J.SERIAL_NO
+                                              from ifsapp.SIN_GRN_SERIAL_DTL J
+                                             WHERE J.SERIAL_NO = :serial_no
+                                               AND J.PRODUCT_CODE = :part_no";
 
                         // Create Oracle command
                         using (OracleCommand cmd = new OracleCommand(devices_query, oOracleConnection))
