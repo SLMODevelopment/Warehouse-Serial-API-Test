@@ -38,7 +38,7 @@ namespace SingerWebSiteIntegration.Controllers
                 try
                 {
                     OracleConnection oOracleConnection = dbConnection.GetConnection();
-                    string devices_query = @"select G.CF$_X_CONTAINER_NO Container_No
+                    string devices_query = @"select G.CF$_X_SHIPNMENT_ID SHIPMENT_ID ,G.CF$_X_CONTAINER_NO Container_No
                                               from ifsapp.X_MULTI_SITE_CONTAINER_CLV G
                                              where G.CF$_X_SHIPNMENT_ID = '" + containerList.shipment_id + "'";
                     OracleCommand cmd_non_serial = new OracleCommand(devices_query, oOracleConnection);

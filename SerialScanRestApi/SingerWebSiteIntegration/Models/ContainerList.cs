@@ -9,7 +9,7 @@ namespace SingerWebSiteIntegration.Models
     {
         public int shipment_id { get; set; }
 
-        public string Container_No { get; set; }
+      
 
       
     }

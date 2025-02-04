@@ -28,9 +28,9 @@ namespace SingerWebSiteIntegration.Controllers
         [HttpGet("SerialNo")]
         public IActionResult CheckSerialNo([FromBody] SerialNo serialNo)
         {
-            if (serialNo.serial_no == "")
+            if (serialNo.serial_no == "" && serialNo.part_no=="")
             {
-                return Ok(JsonConvert.SerializeObject("Invalid shipment_id"));
+                return Ok(JsonConvert.SerializeObject("Invalid serial No or part no"));
             }
             else 
             {
@@ -43,14 +43,14 @@ namespace SingerWebSiteIntegration.Controllers
                         // Create the select query to check if the serial number exists
                         string devices_query = @"
                     SELECT serial_no FROM ifsapp.Serial_Trans_History h 
-                    WHERE h.serial_no = :serial_no";
+                    WHERE h.serial_no = :serial_no and and h.part_no = :part_no";
 
                         // Create Oracle command
                         using (OracleCommand cmd = new OracleCommand(devices_query, oOracleConnection))
                         {
                             // Add parameter to prevent SQL injection
                             cmd.Parameters.Add(new OracleParameter("serial_no", serialNo.serial_no));
-
+                            cmd.Parameters.Add(new OracleParameter("part_no", serialNo.part_no));
                             // Execute the select command
                             using (OracleDataAdapter dataAdapter = new OracleDataAdapter(cmd))
                             {
