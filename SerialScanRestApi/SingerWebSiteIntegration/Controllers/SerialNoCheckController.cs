@@ -46,7 +46,6 @@ namespace SingerWebSiteIntegration.Controllers
                                             SELECT serial_no
                                               FROM ifsapp.Serial_Trans_History h
                                              WHERE h.serial_no = :serial_no
-                                               and
                                                and h.part_no = :part_no
                                             UNION ALL
                                             select J.SERIAL_NO
