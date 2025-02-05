@@ -41,7 +41,7 @@ namespace SingerWebSiteIntegration.Controllers
                                                g.serial_no
        
                                           from ifsapp.sin_grn_serial_dtl g
-                                         where g.shipment_id = '"+uploadSerialNo.shipment_id+"' and g.product_code = '"+uploadSerialNo.product_code+"'  and g.status = 'Planned'  /*and g.update_user = '"+uploadSerialNo.user_no+"*/' ";
+                                         where g.shipment_id = '"+uploadSerialNo.shipment_id+"' and g.product_code = '"+uploadSerialNo.product_code+"'  and g.status = 'Planned'  ";
                     OracleCommand cmd_non_serial = new OracleCommand(devices_query, oOracleConnection);
                     OracleCommand cmd = new OracleCommand(devices_query, oOracleConnection);
                     OracleDataAdapter dataAdapter = new OracleDataAdapter();
