@@ -44,7 +44,7 @@ namespace SingerWebSiteIntegration.Controllers
                                            ifsapp.Purchase_Part_API.Get_Description(CONTRACT, ifsapp.Purchase_Order_Line_Part_API.Get_Part_No(ORDER_NO,LINE_NO,RELEASE_NO)) product_des,
                                            ifsapp.Purchase_Order_Line_API.Get_Buy_Qty_Due(h.ORDER_NO,h.LINE_NO,h.RELEASE_NO) qty
                                               from ifsapp.C_MULTI_SITE_SHIPMENT a, ifsapp.C_SHIPMENT_LINES h
-                                             where h.shipment_id = a.shipment_id and a.STATE = 'Planned'
+                                             where h.shipment_id = a.shipment_id and a.STATE  IN ('Planned','Calculated')
                                              and a.shipment_id = '" + grnDetails.shipment_id + "'";
                     OracleCommand cmd_non_serial = new OracleCommand(devices_query, oOracleConnection);
                     OracleCommand cmd = new OracleCommand(devices_query, oOracleConnection);
