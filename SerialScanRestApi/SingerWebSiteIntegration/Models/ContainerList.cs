@@ -13,4 +13,14 @@ namespace SingerWebSiteIntegration.Models
 
       
     }
+
+    public class SerialNoDelete
+    {
+        public int shipment_id { get; set; }
+        public string serialno { get; set; }
+
+
+
+
+    }
 }

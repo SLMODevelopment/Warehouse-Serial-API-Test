@@ -73,7 +73,8 @@ namespace SingerWebSiteIntegration.Controllers
                             {
                                 insertCmd.Parameters.Add(new OracleParameter("shipment_id", UploadGrn.shipment_id));
                                 insertCmd.Parameters.Add(new OracleParameter("product_code", UploadGrn.product_code));
-                                insertCmd.Parameters.Add(new OracleParameter("serial_no", serial));
+                                insertCmd.Parameters.Add(new OracleParameter("serial_no", serial.Trim()));
+
                                 insertCmd.Parameters.Add(new OracleParameter("update_user", UploadGrn.update_user));
                                 insertCmd.Parameters.Add(new OracleParameter("container_no", UploadGrn.container_no));
                                 insertCmd.Parameters.Add(new OracleParameter("status", UploadGrn.status));

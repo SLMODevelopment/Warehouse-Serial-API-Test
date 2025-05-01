@@ -4793,7 +4793,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj",
-      "projectName": "CCD Application API",
+      "projectName": "Warehouse UAT Api",
       "projectPath": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\WerehouseSerialScan.csproj",
       "packagesPath": "C:\\Users\\dinidur\\.nuget\\packages\\",
       "outputPath": "E:\\SOFTWARE PROJECTS\\Warehouse Serial Scan\\Test\\Rest API\\SerialScanRestApi\\SingerWebSiteIntegration\\obj\\",

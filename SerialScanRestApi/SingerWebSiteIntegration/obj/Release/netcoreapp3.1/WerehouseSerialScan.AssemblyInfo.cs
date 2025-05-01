@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("80663d6f-13ba-42d9-b4c5-c557f2cf14a7")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("CCD Application API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Warehouse UAT Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CCD Application API")]
+[assembly: System.Reflection.AssemblyProductAttribute("Warehouse UAT Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WerehouseSerialScan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

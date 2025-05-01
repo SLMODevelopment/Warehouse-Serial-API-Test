@@ -4,10 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Platforms>AnyCPU;x86</Platforms>
     <UserSecretsId>80663d6f-13ba-42d9-b4c5-c557f2cf14a7</UserSecretsId>
-    <PackageId>CCD Application API</PackageId>
-    <Authors>CCD Application API</Authors>
-    <Company>CCD Application API</Company>
-    <Product>CCD Application API</Product>
+    <PackageId>Warehouse UAT Api</PackageId>
+    <Authors>Warehouse UAT Api</Authors>
+    <Company>Warehouse UAT Api</Company>
+    <Product>Warehouse UAT Api</Product>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
