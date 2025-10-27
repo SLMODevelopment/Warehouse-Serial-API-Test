@@ -125,6 +125,74 @@ namespace SingerWebSiteIntegration.Controllers
                 return StatusCode(500, new { response = 3, message = "Server error", error = ex.Message });
             }
         }
+
+
+        [HttpPost("GetDebitPartSerialNo")]
+        public IActionResult GetDebitPartSerialNo([FromBody] DebitPartSerial obj)
+        {
+            // Validate required inputs
+            if (string.IsNullOrWhiteSpace(obj.part_no) || string.IsNullOrWhiteSpace(obj.serial_no))
+            {
+                return BadRequest(new { response = 0, message = "Part number and serial number cannot be null or empty." });
+            }
+
+            try
+            {
+                bool isValid = false;
+                string? receiptNo = null;
+                string referenceType = ""; 
+
+                if (!string.IsNullOrWhiteSpace(obj.DebitNoteNo))
+                {
+                    referenceType = "Bulk Gate Pass";
+                    (isValid, receiptNo) = dBAccess.IsValidDebitNotePartSerial(obj.DebitNoteNo, obj.part_no, obj.serial_no);
+                }
+               
+                else
+                {
+                    return BadRequest(new { response = 0, message = "Either Bulk Gate Pass No or Purchase Order must be provided." });
+                }
+
+                if (isValid)
+                {
+                    return Ok(new
+                    {
+                        response = 1,
+                        isValid = true,
+                        message = $"Serial is valid for the given {referenceType} and Part No."
+                    });
+                }
+                else if (!string.IsNullOrEmpty(receiptNo))
+                {
+                    return Ok(new
+                    {
+                        response = 2,
+                        isValid = false,
+                        message = "Serial already used.",
+                        receiptNo = receiptNo
+                    });
+                }
+                else
+                {
+                    return Ok(new
+                    {
+                        response = 0,
+                        isValid = false,
+                        message = "Invalid or already used serial."
+                    });
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new
+                {
+                    response = 3,
+                    isValid = false,
+                    message = "Server error",
+                    error = ex.Message
+                });
+            }
+        }
     }
 }
 
