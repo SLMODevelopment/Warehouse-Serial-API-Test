@@ -103,12 +103,12 @@ namespace SingerWebSiteIntegration.Controllers
                     {
                         resultList.Add(new
                         {
-                            bulkGatePassNo = row["bulk_gate_pass_no"].ToString(),
-                            debit_note = row["debit_note"].ToString(),
-                            trip_no = row["trip_no"].ToString(),
-                            debit_site = row["debit_site"].ToString(),
+                            debit_note_no = row["debit_note_no"].ToString(),
+                            order_no = row["order_no"].ToString(),
+                            contract = row["contract"].ToString(),
                             part_no = row["part_no"].ToString(),
-                            qty = row["qty"].ToString()
+                            QTY = row["QTY"].ToString()
+                          
 
                         });
                     }
