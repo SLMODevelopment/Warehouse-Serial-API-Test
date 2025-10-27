@@ -492,6 +492,87 @@ from dual";  // Parameterized to avoid SQL injection
         }
 
 
+        public DataTable GetDebitNotePart(string DebitNote, string Debit_site)
+        {
+            DataTable resultTable = new DataTable();
+
+            // get the product code details
+            string query = @"SELECT m.debit_note,
+                           m.trip_no,
+                           k.bulk_gate_pass_no,
+                           ifsapp.customer_order_line_api.get_customer_no(j.order_no, j.line_no, j.rel_no, line_item_no) debit_site,
+                           ifsapp.customer_order_line_api.get_part_no(j.order_no, j.line_no, j.rel_no, j.line_item_no) part_no,
+                           (sum(ifsapp.customer_order_line_api.get_buy_qty_due(j.order_no,
+                                                                                   j.line_no,
+                                                                                   j.rel_no,
+                                                                                   j.line_item_no))) -
+                               nvl((SELECT nvl(SUM(h.scan_qty), 0) qty
+                                     FROM ifsapp.sin_bar_bulk_re_transit_head h
+                                    WHERE  h.status IN ('Received','Planned')
+                                      AND h.part_no =
+                                          ifsapp.customer_order_line_api.get_part_no(j.order_no,
+                                                                                     j.line_no,
+                                                                                     j.rel_no,
+                                                                                     j.line_item_no)
+                                      AND h.debit_note_no = m.debit_note),
+                                   0) qty
+                    FROM   ifsapp.bulk_gate_pass        k,
+                           ifsapp.gate_pass_debit_notes m,
+                           ifsapp.trn_trip_plan_co_line j,
+                           ifsapp.serial_basic_data     b
+                    WHERE  k.bulk_gate_pass_no = m.bulk_gate_pass_no
+                           AND m.debit_note = j.debit_note_no
+                           AND b.part_no = ifsapp.customer_order_line_api.get_part_no(j.order_no, j.line_no, j.rel_no, j.line_item_no)
+                           AND b.branch_process = 'TRUE'
+                           
+                           AND m.debit_note = :DebitNote
+                           AND ifsapp.customer_order_line_api.get_customer_no(j.order_no, j.line_no, j.rel_no, line_item_no) = :Debit_site
+                           AND k.state IN ('Printed', 'Closed')  group by m.debit_note,
+          m.trip_no,
+          k.bulk_gate_pass_no,
+           ifsapp.customer_order_line_api.get_customer_no(j.order_no,
+                                                      j.line_no,
+                                                      j.rel_no,
+                                                      line_item_no),
+          ifsapp.customer_order_line_api.get_part_no(j.order_no,
+                                                     j.line_no,
+                                                     j.rel_no,
+                                                     j.line_item_no)";
+
+            try
+            {
+                using (OracleConnection oOracleConnection = dbConnection.GetConnection())
+                {
+                    using (OracleCommand command = new OracleCommand(query, oOracleConnection))
+                    {
+                        command.BindByName = true;
+                        command.Parameters.Add(new OracleParameter(":DebitNote", OracleDbType.Varchar2)).Value = DebitNote;
+                        command.Parameters.Add(new OracleParameter(":Debit_site", OracleDbType.Varchar2)).Value = Debit_site;
+
+                        using (OracleDataAdapter adapter = new OracleDataAdapter(command))
+                        {
+                            adapter.Fill(resultTable);
+                        }
+                    }
+                }
+
+                return resultTable;
+            }
+            catch (OracleException ex)
+            {
+                Console.WriteLine("Oracle error: " + ex.Message);
+                throw; // Re-throw the exception after logging
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("General error: " + ex.Message);
+                throw; // Re-throw the exception after logging
+            }
+
+            return resultTable;
+
+        }
+
     }
 
 }

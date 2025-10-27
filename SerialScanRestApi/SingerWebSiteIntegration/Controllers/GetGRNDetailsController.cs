@@ -21,6 +21,7 @@ namespace SingerWebSiteIntegration.Controllers
     public class GetGRNDetailsController : ControllerBase
     {
         private DBConnection dbConnection = new DBConnection();
+        public DBAccess dBAccess = new DBAccess();
         //private DataSet oDataSet;
         //private DataTable oDataTable = null;   
         //private DataRow O_dRow = null;
@@ -67,7 +68,7 @@ namespace SingerWebSiteIntegration.Controllers
                     }
 
                     return Ok(rows);
-                  
+                   
                    
                     
                 }
@@ -82,6 +83,48 @@ namespace SingerWebSiteIntegration.Controllers
         }
 
 
+        [HttpGet("GetDebitNotePartList")]
+        public IActionResult GetDebitNotePartList([FromQuery] string DebitNote, string Debit_site)
+        {
+            if (string.IsNullOrEmpty(DebitNote) || string.IsNullOrEmpty(Debit_site))
+            {
+                return BadRequest("Input parameters cannot be null or empty.");
+            }
+
+            try
+            {
+                DataTable db = dBAccess.GetDebitNotePart(DebitNote, Debit_site);
+
+                if (db.Rows.Count > 0)
+                {
+                    var resultList = new List<object>();
+
+                    foreach (DataRow row in db.Rows)
+                    {
+                        resultList.Add(new
+                        {
+                            bulkGatePassNo = row["bulk_gate_pass_no"].ToString(),
+                            debit_note = row["debit_note"].ToString(),
+                            trip_no = row["trip_no"].ToString(),
+                            debit_site = row["debit_site"].ToString(),
+                            part_no = row["part_no"].ToString(),
+                            qty = row["qty"].ToString()
+
+                        });
+                    }
+
+                    return Ok(new { response = 1, data = resultList });
+                }
+                else
+                {
+                    return Ok(new { response = 2, message = "Invalid Debit Number or Bulk Gate Pass NUmber" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { response = 3, message = "Server error", error = ex.Message });
+            }
+        }
     }
 }
 
