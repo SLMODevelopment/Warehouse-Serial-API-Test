@@ -547,6 +547,90 @@ from ifsapp.Inv_Transit_Tracking j ,
 
         }
 
+
+        public (bool isValid, string? receiptNo) IsValidDebitNotePartSerial(string DebitNoteNo, string part_no, string serial_no)
+        {
+            bool isValid = false;
+            string? receiptNo = null;
+
+            string serial_existing_serial = @"
+        SELECT j.receipt_no     
+             from ifsapp.SIN_BAR_BULK_RE_TRANSIT_SERIAL j
+        WHERE j.serial_no = :serial_no and j.STATUS IN ('Planned','Scanned')
+        ";
+
+            string query = @"
+        SELECT 1
+ FROM ifsapp.serial_trans_history_tab s
+ WHERE  s.direction = '-'
+   AND s.customer_code = :debit_site
+   AND s.part_no = :part_no
+   AND s.serial_no = :serial_no
+   AND NOT EXISTS (
+       SELECT 1
+       FROM ifsapp.serial_trans_history_tab s2
+       WHERE s2.part_no = s.part_no
+         AND s2.serial_no = s.serial_no
+         AND s2.debit_note_no = :DebitNoteNo
+         AND s2.customer_code = :debit_site
+         AND s2.direction = '+')
+          )";
+
+            try
+            {
+                using (OracleConnection oOracleConnection = dbConnection.GetConnection())
+                {
+                    // Step 1: Check if serial already exists in SIN_BAR_BULK_RE_TRANSIT
+                    using (OracleCommand cmd1 = new OracleCommand(serial_existing_serial, oOracleConnection))
+                    {
+                        cmd1.BindByName = true;
+                        cmd1.Parameters.Add(new OracleParameter(":debit_site", OracleDbType.Varchar2)).Value = DebitNoteNo;
+                        cmd1.Parameters.Add(new OracleParameter(":part_no", OracleDbType.Varchar2)).Value = part_no;
+                        cmd1.Parameters.Add(new OracleParameter(":serial_no", OracleDbType.Varchar2)).Value = serial_no;
+
+                        using (OracleDataReader reader1 = cmd1.ExecuteReader())
+                        {
+                            if (reader1.Read())
+                            {
+                                receiptNo = reader1["receipt_no"].ToString();
+                                return (false, receiptNo); // Already exists, return false and the receipt no
+                            }
+                        }
+                    }
+
+                    // Step 2: If not found above, check valid insertion
+                    using (OracleCommand cmd2 = new OracleCommand(query, oOracleConnection))
+                    {
+                        cmd2.BindByName = true;
+                        cmd2.Parameters.Add(new OracleParameter(":DebitNoteNo", OracleDbType.Varchar2)).Value = DebitNoteNo;
+                        cmd2.Parameters.Add(new OracleParameter(":part_no", OracleDbType.Varchar2)).Value = part_no;
+                        cmd2.Parameters.Add(new OracleParameter(":serial_no", OracleDbType.Varchar2)).Value = serial_no;
+
+                        using (OracleDataReader reader2 = cmd2.ExecuteReader())
+                        {
+                            if (reader2.Read())
+                            {
+                                isValid = true;
+                            }
+                        }
+                    }
+                }
+            }
+            catch (OracleException ex)
+            {
+                Console.WriteLine("Oracle error: " + ex.Message);
+                throw;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("General error: " + ex.Message);
+                throw;
+            }
+
+            return (isValid, receiptNo);
+        }
+
+
     }
 
 }
