@@ -497,47 +497,21 @@ from dual";  // Parameterized to avoid SQL injection
             DataTable resultTable = new DataTable();
 
             // get the product code details
-            string query = @"SELECT m.debit_note,
-                           m.trip_no,
-                           k.bulk_gate_pass_no,
-                           ifsapp.customer_order_line_api.get_customer_no(j.order_no, j.line_no, j.rel_no, line_item_no) debit_site,
-                           ifsapp.customer_order_line_api.get_part_no(j.order_no, j.line_no, j.rel_no, j.line_item_no) part_no,
-                           (sum(ifsapp.customer_order_line_api.get_buy_qty_due(j.order_no,
-                                                                                   j.line_no,
-                                                                                   j.rel_no,
-                                                                                   j.line_item_no))) -
-                               nvl((SELECT nvl(SUM(h.scan_qty), 0) qty
-                                     FROM ifsapp.sin_bar_bulk_re_transit_head h
-                                    WHERE  h.status IN ('Received','Planned')
-                                      AND h.part_no =
-                                          ifsapp.customer_order_line_api.get_part_no(j.order_no,
-                                                                                     j.line_no,
-                                                                                     j.rel_no,
-                                                                                     j.line_item_no)
-                                      AND h.debit_note_no = m.debit_note),
-                                   0) qty
-                    FROM   ifsapp.bulk_gate_pass        k,
-                           ifsapp.gate_pass_debit_notes m,
-                           ifsapp.trn_trip_plan_co_line j,
-                           ifsapp.serial_basic_data     b
-                    WHERE  k.bulk_gate_pass_no = m.bulk_gate_pass_no
-                           AND m.debit_note = j.debit_note_no
-                           AND b.part_no = ifsapp.customer_order_line_api.get_part_no(j.order_no, j.line_no, j.rel_no, j.line_item_no)
-                           AND b.branch_process = 'TRUE'
-                           
-                           AND m.debit_note = :DebitNote
-                           AND ifsapp.customer_order_line_api.get_customer_no(j.order_no, j.line_no, j.rel_no, line_item_no) = :Debit_site
-                           AND k.state IN ('Printed', 'Closed')  group by m.debit_note,
-          m.trip_no,
-          k.bulk_gate_pass_no,
-           ifsapp.customer_order_line_api.get_customer_no(j.order_no,
-                                                      j.line_no,
-                                                      j.rel_no,
-                                                      line_item_no),
-          ifsapp.customer_order_line_api.get_part_no(j.order_no,
-                                                     j.line_no,
-                                                     j.rel_no,
-                                                     j.line_item_no)";
+            string query = @"select n.debit_note_no  , n.order_no , j.contract , j.part_no , (j.qty -  nvl((SELECT nvl(SUM(h.scan_qty), 0) qty
+       FROM ifsapp.sin_bar_bulk_re_transit_head h
+      WHERE  h.status IN ('Received','Planned')
+        AND h.part_no = j.part_no
+        AND h.debit_note_no = n.debit_note_no),0)) QTY
+from ifsapp.Inv_Transit_Tracking j ,
+     ifsapp.Serial_Trans_History n
+     where j.contract = n.customer_code
+     and j.delivering_contract = n.contract
+     and j.part_no = n.part_no
+     and j.order_no = n.order_no
+     and n.debit_note_no = :DebitNote
+     and j.contract = :Debit_site
+     and j.line_no = n.line_no
+  group by n.debit_note_no  , n.order_no , j.contract , j.part_no ,j.qty";
 
             try
             {
